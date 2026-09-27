@@ -68,3 +68,9 @@ Tidak ada framework, build tool, atau dependency eksternal.
 ## Catatan
 
 Visualisasi ini bersifat **edukatif dan ilustratif**. Ukuran, jarak, dan beberapa parameter objek astronomi tidak dibuat berdasarkan skala fisik sebenarnya.
+
+
+🚀 Live Demo
+👉 Open Interactive Eclipse Simulator
+https://bahrizalmulyawan.github.io/eclipse/eclipse-simulation.html
+Coba simulator langsung tanpa perlu melakukan instalasi.
